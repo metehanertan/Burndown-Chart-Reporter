@@ -1,12 +1,1 @@
-Uzun, Arif Orhun (ADV D EU TR HMI&PN PN);orhun.uzun@siemens.com
-Yildirim, Ozan Mahir (ADV D EU TR HMI&PN PN);ozan.yildirim@siemens.com
-Dertat, Aren (ADV D EU TR HMI&PN PN);aren.dertat@siemens.com
-Acun, Cem (ADV D EU TR HMI&PN PN);cem.acun@siemens.com
-Koyuncuoglu, Ferhat (ADV D EU TR HMI&PN PN);ferhat.koyuncuoglu@siemens.com
-Yavuz Ayan, Canan Gonca (ADV D EU TR HMI&PN PN);canan.yavuz_ayan@siemens.com
-Yilmaz, Caner (ADV D EU TR HMI&PN PN);caner.yilmaz@siemens.com
-Ugurlu, Bora (ADV D EU TR HMI&PN PN);bora.ugurlu@siemens.com
-Giray, Rasim Onur (ADV D EU TR HMI&PN PN);onur.giray@siemens.com
-Genc, Aysenur (ADV D EU TR HMI&PN PN);aysenur.dogankaya@siemens.com
-Uluyol, İsmail Hakan (ADV D EU TR HMI&PN PN);ismail.uluyol@siemens.com
-Giray, Rasim Onur (IOT DS EU TR HMI&PN PN);onur.giray@siemens.com
+
