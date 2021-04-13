@@ -191,8 +191,8 @@ namespace BurndownChartReporter
                 mail.IsBodyHtml = true;
                 //Adding chart to mail
                 mail.AlternateViews.Add(getEmbeddedImage(chartPath));
-                mail.From = new MailAddress("metehan.ertan@siemens.com");
-                mail.To.Add("metehan.ertan@siemens.com");
+                mail.From = new MailAddress("");
+                mail.To.Add("");
                 mail.Subject = "Burndown Chart Reporter " + date + " Daily Report";
                 mail.Body = date+"'s daily burndownchart.";
 
@@ -207,7 +207,7 @@ namespace BurndownChartReporter
                 mail.Attachments.Add(teamAttachment);
 
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("metehan.ertan@siemens.com", "Kaju.1499@Kaju");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("", "");
                 SmtpServer.EnableSsl = true;
 
                 //Sending mail
